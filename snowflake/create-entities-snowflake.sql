@@ -6,7 +6,7 @@
  set airbyte_schema = 'AIRBYTE_SCHEMA';
 
  -- set user password
- set airbyte_password = 'gads2497*';
+ set airbyte_password = 'YOUR_PASSWORD';
 
  begin;
 
