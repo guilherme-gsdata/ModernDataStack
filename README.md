@@ -42,25 +42,25 @@ Preparação:
 
 No Airbyte (Destination Loading Method):
 
-- Local Staging (Ambiente de Desenvolvimento) 
-- Cloud Staging (Ambiente de Produção) 
+- Local Staging (Ambiente de Desenvolvimento) X
+- Cloud Staging (Ambiente de Produção) X
 
 
 Transformação:
 
 No Dbt:
 
-- Criação da Conta 
-- Conexão com o Github 
-- Criação do Dbt Project 
-- Criação do Profile de conexão com o snowflake 
-- Criação do Schema 
-- Criação dos Modelos Base 
-- Criação do Modelo Relacionado 
-- Visualização gráfica do modelo 
-- Teste de execução 
-- Commits, Branches, Pull Requests, Merges no Github 
-- Obtenção do link de conexão com o Airbyte 
+- Criação da Conta  X
+- Conexão com o Github  X
+- Criação do Dbt Project  X
+- Criação do Profile de conexão com o snowflake  X
+- Criação do Schema  X
+- Criação dos Modelos Base  X
+- Criação do Modelo Relacionado  X
+- Visualização gráfica do modelo  X
+- Teste de execução  X
+- Commits, Branches, Pull Requests, Merges no Github  X
+- Obtenção do link de conexão com o Airbyte  X
 
 
 Visualização:
